@@ -1,0 +1,10 @@
+{
+  "name": "Hide Expected Review Interval", 
+  "homepage": "https://github.com/parconley/interval-hider",
+  "mod": 1741842000, 
+  "min_point_version": 50, 
+  "max_point_version": 0,
+  "branch_index": 0,
+  "disabled": false,
+  "conflicts": []
+} 
