@@ -38,7 +38,7 @@ The add-on makes the interval text invisible while preserving the original layou
 ### From AnkiWeb
 1. Open Anki
 2. Go to Tools > Add-ons > Get Add-ons
-3. Paste the code: [AnkiWeb ID once available]
+3. Paste the code: 1015550873
 4. Restart Anki
 
 ### Manual Installation
