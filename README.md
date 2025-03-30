@@ -4,7 +4,9 @@
 
 A simple Anki add-on that hides the expected review interval (like "10d" or "2min") that normally appears beneath each answer button during card review.
 
-![Before and After comparison](https://raw.githubusercontent.com/parconley/interval-hider/main/images/cover.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/parconley/interval-hider/main/images/cover.png" width="600" alt="Before and After comparison">
+</p>
 
 ## Why Use This Add-on?
 
