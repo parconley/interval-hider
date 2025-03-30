@@ -1,6 +1,6 @@
-# Hide Expected Review Interval
+# Anki Add-on: Hide Expected Review Interval
 
-A simple add-on that hides the expected review interval (like "10d" or "2min") that normally appears beneath each answer button during card review.
+A simple Anki add-on that hides the expected review interval (like "10d" or "2min") that normally appears beneath each answer button during card review.
 
 ## Purpose
 
