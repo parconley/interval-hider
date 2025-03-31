@@ -1,3 +1,7 @@
+*Update: It appears that hiding review intervals is an option in the Anki settings, and the add-on is unnecessary! Thanks to the reviewer for this information!*
+
+*To update the setting: View > Preferences > Review > "Show next review time above answer buttons" (uncheck this)*
+
 # Anki Add-on: Hide Expected Review Interval
 
 > Your brain knows if you know something. Your eyes seeing intervals makes you second-guess. Trust your brain.
